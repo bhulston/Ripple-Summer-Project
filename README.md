@@ -3,13 +3,13 @@ Defined key metrics, built data, analysis, and ML pipelines, feature engineering
 
 This is my presentation from my summer at Ripple. I continued working there part-time for an extra semester as well. Below are some screenshots and short explanations of the presentation. A lot of information is blacked out in the pdf because of proprietary and confidential information...
 
-# he issue
+# The issue
 
 Data relating to quotes had been largely unexplored. Meaning all we had at the time was the raw data from the blockchain nodes. The company wanted to work on creating data and analysis pipelines for all funnels within the entire service process. My job was to lay the foundations and present initial findings. 
 
 There are over a hundred million quotes, and millions of corresponding payments. We needed to engineer meaningful features, high-level dashboards for managers, and conduct EDA and further analysis to make any important suggestions.
 
-# he solution
+# The solution
 
 I built a data pipeline in Google Cloud Platform using Big Query. This was primarily done in SQL. This required aggregating data from dozens of sources, including collecting market maker information, Refinitiv FX rates, XRP information, customer info, etc... This pipeline can be easily accessed for ad-hoc queries, dashboards, ML models through AirFlow.
 
