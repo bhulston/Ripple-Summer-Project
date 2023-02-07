@@ -1,5 +1,5 @@
 # Ripple-Summer-Project
-Defined key metrics, built data, analysis, and ML pipelines, feature engineering, and dashboard engineering. Data was collected from blockchain nodes, containing information about customer quotes and payments. Focused on quotes... [Presentation Link](https://drive.google.com/file/d/1iopuDiZqogBLO_4gM9QTY8PPuO8ndj48/view?usp=sharing)
+Defined key metrics, built data, analysis, and ML pipelines, feature engineering, and dashboard engineering. Data was collected from blockchain nodes, containing information about customer quotes and payments. Focused on quotes... 
 
 This is my presentation from my summer at Ripple. I continued working there part-time for an extra semester as well. Below are some screenshots and short explanations of the presentation. A lot of information is blacked out in the pdf because of proprietary and confidential information...
 
