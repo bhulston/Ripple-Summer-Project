@@ -30,7 +30,7 @@ A butterfly graph giving some high-level views of the quote data
 
 ![image](https://user-images.githubusercontent.com/79114425/213817460-35479385-677c-4716-a8f5-53dfff373bc3.png)
 
-Weekly quote performance for managers
+Weekly quote performance for product managers
 
 ![image](https://user-images.githubusercontent.com/79114425/213818176-dd786bfd-e62f-465c-886c-b4f3f9a8cd5f.png)
 
@@ -52,6 +52,6 @@ Gave in-depth explanations of customer behaviors and the relevant suggestions
 
 # LR model
 
-Built a multi-linear regression model as an example of how to use pipeline for ML
+Built a multi-linear regression model as an example of how to use pipeline for ML. Model is used for predicting whether or not quotes actually convert to real payments.
 
 
